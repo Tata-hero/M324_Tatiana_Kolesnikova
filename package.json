@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint .",
     "format": "prettier --write .",
-    "test": "node node_modules/.bin/mocha ./"
+    "test": "mocha ./"
   },
   "keywords": [],
   "author": "",
